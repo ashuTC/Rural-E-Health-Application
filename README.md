@@ -7,10 +7,6 @@
 ### Integrated Development Environment (IDE):
 - **Eclipse:** Utilized for streamlined development, debugging, and testing. Ensure you have Eclipse IDE installed for a seamless development experience.
 
-## Admin Panel
-
-![Admin Panel Screenshot](./C:\Users\Dell\Documents\EHealth (1)\ScreenShots\Screenshot (60).png)
-
 ### Front-end:
 - HTML5
 - CSS3
